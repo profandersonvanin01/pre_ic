@@ -26,7 +26,7 @@ Projeto em andamento, sendo realizado por ...
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Python``
-- ``...``
+- ``OpenCV``
 - ``...``
 
 ## Professores e Alunos
