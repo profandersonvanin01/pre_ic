@@ -31,5 +31,5 @@ Projeto em andamento, sendo realizado por ...
 
 ## Contribuidores
 
-| [<img src="https://avatars.githubusercontent.com/u/101676959?s=96&v=4" width=115><br><sub>🚀 Prof. Anderson Vanin</sub>](https://github.com/profandersonvanin01) |  [<img src="https://avatars.githubusercontent.com/u/64447526?v=4" width=115><br><sub>🚀 Profª Cíntia Pinho</sub>](https://github.com/profcintiapinho) 
-| :---: | :---: | 
+| [<img src="https://avatars.githubusercontent.com/u/101676959?s=96&v=4" width=115><br><sub>🚀 Prof. Anderson Vanin</sub>](https://github.com/profandersonvanin01) |  [<img src="https://avatars.githubusercontent.com/u/64447526?v=4" width=115><br><sub>🚀 Profª Cíntia Pinho</sub>](https://github.com/profcintiapinho)|  [<img src="https://avatars.githubusercontent.com/u/64447526?v=4" width=115><br><sub>🚀 Profª Cíntia Pinho</sub>](https://github.com/profcintiapinho) 
+| :---: | :---: | :---: |
