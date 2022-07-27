@@ -13,7 +13,7 @@ Inteligência Artificial: Machine Learning, Computação Cognitiva, Deep Learnin
 
 Os grupos de trabalho poderão ser organizados de forma individual ou no máximo com 03 (três) alunos;
 
-Projeto em andamento, sendo realizado por ...
+O principal objetivo deste projeto é a implementação de um modelo de aprendizado profundo, usando redes neurais convolucionais, para o reconhecimento óptico de caracteres manuscritos. Serão utilizadas bibliotecas recentes como numpy, pandas, matplotlib, Keras, Opencv. O conjunto de dados inicial usado para o treinamento da rede foi o EMNIST, que contém todas as classes de caracteres e que será adicionada à esta base também os caracteres especiais que são utilizados em nosso idoma (À, Á, Ã, Ç, etc).
 
 ## 🔨 Funcionalidades do projeto
 
