@@ -27,7 +27,10 @@ O principal objetivo deste projeto é a implementação de um modelo de aprendiz
 
 - ``Python``
 - ``OpenCV``
-- ``...``
+- ``Tensorflow``
+- ``Numpy``
+- ``Matplotlib``
+
 
 ## Contribuidores
 
