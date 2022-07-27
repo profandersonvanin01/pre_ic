@@ -13,13 +13,13 @@ Inteligência Artificial: Machine Learning, Computação Cognitiva, Deep Learnin
 
 Os grupos de trabalho poderão ser organizados de forma individual ou no máximo com 03 (três) alunos;
 
-O principal objetivo deste projeto é a implementação de um modelo de aprendizado profundo, usando redes neurais convolucionais, para o reconhecimento óptico de caracteres manuscritos. Serão utilizadas bibliotecas recentes como numpy, pandas, matplotlib, Keras, Opencv. O conjunto de dados inicial usado para o treinamento da rede foi o EMNIST, que contém todas as classes de caracteres e que será adicionada à esta base também os caracteres especiais que são utilizados em nosso idoma (À, Á, Ã, Ç, etc).
+O principal objetivo deste projeto é a implementação de um modelo de aprendizado profundo, usando redes neurais convolucionais, para o reconhecimento óptico de caracteres manuscritos. Serão utilizadas bibliotecas recentes como numpy, pandas, matplotlib, Keras, Opencv. O conjunto de dados inicial usado para o treinamento da rede foi o EMNIST (https://www.nist.gov/itl/products-and-services/emnist-dataset), que contém todas as classes de caracteres e que será adicionada à esta base também os caracteres especiais que são utilizados em nosso idoma (À, Á, Ã, Ç, etc).
 
 ## 🔨 Funcionalidades do projeto
 
 - `Funcionalidade 1` `Definição do Problema`: Nosso sistema precisa ser capaz de fazer o reconhecimento ótico de caracteres manuscritos do idioma Português_brasileiro e gerar os textos a partir de imagens em PDF.
 - `Funcionalidade 2` `Montagem do banco de imagens de Caracteres`: Consiste na aquição de imagens de cada caracter utilizado no nosso idioma e redimensionar as imagens para o tamanho de 28 x 28 pixels.
-- `Funcionalidade 3` `...`: Para ...
+- `Funcionalidade 3` `Treinamento da Rede Neural`: Para ...
 - `Funcionalidade 4` `....`: Para ...
 - `Funcionalidade 5` `...`:Para .... 
 
