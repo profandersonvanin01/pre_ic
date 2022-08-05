@@ -27,8 +27,18 @@ Serão utilizadas bibliotecas recentes como numpy, pandas, matplotlib, Keras, Op
 
 #PROJETO ATUAL
 - `Etapa 1` `Definição do Problema`: Melhorar a comunicação para pacientes que tenham doenças do tipo degenerativas que paralisam membros do corpo impossibilitando a fala e movimentos, utilizando recursos de Visão Computacional para a detecção de movimento ocular e síntese de palavras ou frases.
+
+![image](https://user-images.githubusercontent.com/101676959/183161875-482cd09c-5feb-4a78-b51e-677792a418db.png)
+
 - `Etapa 2` `Detecção do movimento dos olhos e piscar`: ...
+
+
+![image](https://user-images.githubusercontent.com/101676959/183160890-3089a20b-3701-4fde-a7c7-8ef931b4d007.png)
+
 - `Etapa 3` `Construção de Modelos de teclado virtual`: ...
+
+![image](https://user-images.githubusercontent.com/101676959/183161034-37fec706-e2cc-40c9-9b94-fdc3f2eba948.png)
+
 - `Etapa 4` `....`: Para ...
 - `Etapa 5` `...`:Para ....
 
