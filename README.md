@@ -13,15 +13,25 @@ Inteligência Artificial: Machine Learning, Computação Cognitiva, Deep Learnin
 
 Os grupos de trabalho poderão ser organizados de forma individual ou no máximo com 03 (três) alunos;
 
-O principal objetivo deste projeto é a implementação de um modelo de aprendizado profundo, usando redes neurais convolucionais, para o reconhecimento óptico de caracteres manuscritos. Serão utilizadas bibliotecas recentes como numpy, pandas, matplotlib, Keras, Opencv. O conjunto de dados inicial usado para o treinamento da rede foi o EMNIST (https://www.nist.gov/itl/products-and-services/emnist-dataset), que contém todas as classes de caracteres e que será adicionada à esta base também os caracteres especiais que são utilizados em nosso idoma (À, Á, Ã, Ç, etc).
+O objetivo inicial do projeto foi a de uma implementação de um modelo de aprendizado profundo, usando redes neurais convolucionais, para o reconhecimento óptico de caracteres manuscritos. Foram coletadas algumas imagens manuscritas de caracteres durante o 1º semestre de 2022 no qual o conjunto de dados inicial usado para o treinamento da rede seria o EMNIST (https://www.nist.gov/itl/products-and-services/emnist-dataset), que contém todas as classes de caracteres no qual seria adicionada à esta base também os caracteres especiais que são utilizados em nosso idoma (À, Á, Ã, Ç, etc), porém após o recesso escolar de julho, houve uma pequena discussão sobre um projeto bem interessante ainda na área de Visão Computacional.
+
+Surgiu então a ideia de construir um programa que consiga solucionar um problema de comunicação para pessoas que tenham doenças do tipo degenerativas que paralisam os membros impossibilitando qualquer tipo de interação social. Estas pessoas conseguem movimentar os seus olhos (esquerda, direita, cima, baixo ou piscar), são movimentos que podem ser detectados por uma camera e através de um teclado virtual, palavras ou até mesmo frases serem escritas e também reproduzidas através de som.
+
+Serão utilizadas bibliotecas recentes como numpy, pandas, matplotlib, Keras, Opencv, Dlib. 
 
 ## 🔨 Etapas do projeto
 
-- `Etapa 1` `Definição do Problema`: Nosso sistema precisa ser capaz de fazer o reconhecimento ótico de caracteres manuscritos do idioma Português_brasileiro e gerar os textos a partir de imagens em PDF.
-- `Etapa 2` `Montagem do banco de imagens de Caracteres`: Consiste na aquição de imagens de cada caracter utilizado no nosso idioma e redimensionar as imagens para o tamanho de 28 x 28 pixels.
-- `Etapa 3` `Treinamento da Rede Neural`: Para ...
+#PROJETO INICIADO
+- ~~`Etapa 1` `Definição do Problema`: Nosso sistema precisa ser capaz de fazer o reconhecimento ótico de caracteres manuscritos do idioma Português_brasileiro e gerar os textos a partir de imagens em PDF.~~
+- ~~`Etapa 2` `Montagem do banco de imagens de Caracteres`: Consiste na aquição de imagens de cada caracter utilizado no nosso idioma e redimensionar as imagens para o tamanho de 28 x 28 pixels.~~
+
+#PROJETO ATUAL
+- `Etapa 1` `Definição do Problema`: Melhorar a comunicação para pacientes que tenham doenças do tipo degenerativas que paralisam membros do corpo impossibilitando a fala e movimentos, utilizando recursos de Visão Computacional para a detecção de movimento ocular e síntese de palavras ou frases.
+- `Etapa 2` `Detecção do movimento dos olhos e piscar`: ...
+- `Etapa 3` `Construção de Modelos de teclado virtual`: ...
 - `Etapa 4` `....`: Para ...
-- `Etapa 5` `...`:Para .... 
+- `Etapa 5` `...`:Para ....
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -30,6 +40,7 @@ O principal objetivo deste projeto é a implementação de um modelo de aprendiz
 - ``Tensorflow``
 - ``Numpy``
 - ``Matplotlib``
+- ``Dlib``
 
 
 ## Contribuidores
